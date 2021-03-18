@@ -5,7 +5,7 @@
 - A fun project I recently did to play with [graphql](https://dino-api-graphql.herokuapp.com)
 - Some recent enjoyable node [backend  auth practice](https://github.com/JSinkler713/node-google-jwt-auth) w/ JWT's and google Oauth
 - Feel free to reach me at jamessinkler713 @ gmail dot com
-- 👩‍👩‍👦 I love my wive(s) and you can occaisonally find me at my favorite Bakery or Catching a wave 🏄
+- 👩‍👩‍👦 I love my wives and you can occaisonally find me at my favorite Bakery or Catching a wave 🏄
 <!--
 **JSinkler713/JSinkler713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
